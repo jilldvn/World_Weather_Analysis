@@ -1,3 +1,11 @@
+# Adding config.py file.
+config.py
+# Adding addiional files.
+Vacation_Itinerary_starter_code.ipynb
+Vacation_Search_starter_code.ipynb
+weather_data
+WeatherPy_vacation-backup.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
